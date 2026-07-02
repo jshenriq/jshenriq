@@ -1,3 +1,5 @@
+# Henrique — Full Stack Developer
+
 <br/>
 
 <div style="display: inline_block" align="left">
@@ -10,7 +12,7 @@
 
 <br/>
 
-<div align="center">
+<div align="left">
 
 <img height="150em" src="https://github-stats-extended.vercel.app/api?username=jshenriq&show_icons=true&theme=default"/>
 
