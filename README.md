@@ -1,6 +1,5 @@
 # Henrique — Full Stack Developer
 
-<br/>
 
 <div align="left">
 
